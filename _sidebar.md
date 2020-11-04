@@ -1,14 +1,3 @@
-<!-- docs/_sidebar.md -->
-
-
-* [HOME](./)
-
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
-
-* [About](./about/index)
-
-* [Contact](./contact/index)
-
+- [Introduction](./)
+- [Getting started](./text/getting_started.md)
+- [FAQ](./text/faq.md)
