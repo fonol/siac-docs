@@ -1,3 +1,5 @@
 - [Introduction](./)
 - [Getting started](./text/getting_started.md)
 - [FAQ](./text/faq.md)
+- [Bugs](./text/bugs.md)
+- [Feedback](./text/feedback.md)
