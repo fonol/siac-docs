@@ -1,7 +1,8 @@
 - [Introduction](./)
 - [Getting started](./text/getting_started.md)
 - Documentation
-  - [Creating new notes](text/docs/create_new_note.md)
+  - [Add-on Notes](text/docs/addon_notes.md)
+  - [Queue](text/docs/queue.md)
   - [Zotero CSV Import](text/docs/zotero.md)
 - [FAQ](./text/faq.md)
 - [Bugs](./text/bugs.md)
