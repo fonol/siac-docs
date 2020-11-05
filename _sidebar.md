@@ -2,6 +2,7 @@
 - [Getting started](./text/getting_started.md)
 - Documentation
   - [Add-on Notes](text/docs/addon_notes.md)
+  - [Settings](text/docs/settings.md)
   - [Queue](text/docs/queue.md)
   - [Zotero CSV Import](text/docs/zotero.md)
 - [FAQ](./text/faq.md)
