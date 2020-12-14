@@ -9,3 +9,5 @@ watching YouTube videos.
 ## Creating new notes
 From the Anki menubar, select `SIAC>Import>New`. It is also possible to define a
 keyboard shortcut for this option in the [settings](text/docs/settings#shortcuts).
+
+You will now be presented with a dialog for adding notes.

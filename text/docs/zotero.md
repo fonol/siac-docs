@@ -23,7 +23,7 @@ Dialog.
 Press `Choose File` and select the file you previously exported from Zotero. The add-on
 will automatically show you the number of found PDF attachments.
 
-![img zotero csv import dialog](../../img/docs/zotero_import_dialog.png)
+![Imgage of Zotero CSV Import dialog](../../img/docs/zotero_import_dialog.png)
 
 After setting the import parameters to your liking, confirm the import by pressing the button `Import`.
 
